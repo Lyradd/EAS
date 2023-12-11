@@ -240,5 +240,4 @@ async function Logout() {
 </script>
 
 <style scoped>
-/* ... Your existing styles ... */
 </style>
